@@ -1,4 +1,4 @@
-[![ITDoctor](https://github.com/semenChe/semenChe/blob/main/assets/NvL.gif)]
+![image](https://github.com/semenChe/semenChe/blob/main/assets/NvL.gif)
 изучаю фронтенд с 2022 года. 
 
 ### Мой стек технологий
