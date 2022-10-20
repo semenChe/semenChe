@@ -1,5 +1,5 @@
 ![Untitled-1](https://github.com/semenChe/semenChe/blob/main/assets/NvL.gif)
-изучаю фронтенд с 2022 года. 
+### Frontend Developer  
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
