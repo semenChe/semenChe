@@ -1,6 +1,4 @@
 [![ITDoctor](https://github.com/semenChe/semenChe/blob/main/assets/NvL.gif)]
-
-## Чернышев Семен
 изучаю фронтенд с 2022 года. 
 
 ### Мой стек технологий
@@ -9,7 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/semen_che)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/semen_ch)
